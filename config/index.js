@@ -65,11 +65,6 @@ export const config = {
 
     /** 日期相关 */
 
-    // 在一起的日子，格式同上
-    //LOVE_DATE: "2015-05-01",
-    // 结婚纪念日
-    //MARRY_DATE: "2020-01-04",
-
 
     /** 每日一言 */
 
@@ -86,7 +81,6 @@ export const config = {
 // 最低气温: {{min_temperature.DATA}}  
 // 最高气温: {{max_temperature.DATA}}  
 // {{birthday_message.DATA}}
-
 // {{note_en.DATA}}  
 // {{note_ch.DATA}}
 
